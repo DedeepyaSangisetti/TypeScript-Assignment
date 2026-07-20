@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "rootDir": ".",
+    "outDir": "./dist",
+    "skipLibCheck": true
+  },
+  "include": [
+    "Week1/**/*.ts",
+    "Week2/**/*.ts",
+    "Week3/**/*.ts",
+    "Week4/**/*.ts"
+  ]
+}
