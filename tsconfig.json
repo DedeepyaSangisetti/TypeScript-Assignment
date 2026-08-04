@@ -13,6 +13,8 @@
     "Week1/**/*.ts",
     "Week2/**/*.ts",
     "Week3/**/*.ts",
-    "Week4/**/*.ts"
+    "Week4/**/*.ts",
+    "Week5/**/*.ts",
+    "Week6/**/*.ts"
   ]
 }
