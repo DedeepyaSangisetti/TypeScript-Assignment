@@ -9,5 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "CommonJS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DedeepyaSangisetti/TypeScript-Assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DedeepyaSangisetti/TypeScript-Assignment/issues"
+  },
+  "homepage": "https://github.com/DedeepyaSangisetti/TypeScript-Assignment#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
